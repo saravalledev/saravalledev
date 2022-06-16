@@ -34,6 +34,6 @@
   <!--a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a-->
   <!--a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a-->
   
-    ![Snake animation](https://github.com/HebertVS/HebertVS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/HebertVS/HebertVS/blob/output/github-contribution-grid-snake.svg)
 
 </div>
