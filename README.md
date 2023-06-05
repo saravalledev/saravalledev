@@ -5,8 +5,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/HebertVS">
-  <!--img height="155em" src="https://github-readme-stats.vercel.app/api?username=HebertVS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/-->
-    <img height="155em" src="https://github.com/HebertVS/Check-Livros"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=HebertVS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertVS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
