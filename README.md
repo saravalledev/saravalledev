@@ -1,7 +1,7 @@
 ### <h1>Olá! Eu sou o HebertVS padawan da programação!</h1>
 
-- 🔭 Procurando uma oportunidade de emprego na área de programação full-stack
-- 🌱 Estudo C#, JAVA, PHP, SQL, HTML5, CSS3, JavaScript e NodeJs 
+- 🔭 Aloco meus projetos, dos mais simples aos mais complexos em repositórios nessa plataforma para compor meu portfólio full-stack.
+- 🌱 Estudo C#, JAVA, PHP, SQL, HTML5, CSS3, JavaScript entre outras linguegens.
 <br>
 <div align="center">
   <a href="https://github.com/HebertVS">
