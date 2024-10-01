@@ -1,7 +1,7 @@
 ### <h1>Olá! Meu chamo Hebert Saravalle, padawan da programação!</h1>
 
 - 🔭 Aloco meus projetos, dos mais simples aos mais complexos em repositórios nessa plataforma para compor meu portfólio full-stack.
-- 🌱 Estudo C#, JAVA, PHP, SQL, HTML5, CSS3, JavaScript entre outras linguegens.
+- 🔭 I organize my projects, from the simplest to the most complex, in repositories on this platform to build my full-stack portfolio.
 <br>
 <div align="center">
   <a href="https://github.com/HebertVS">
