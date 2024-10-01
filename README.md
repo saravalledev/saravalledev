@@ -1,4 +1,4 @@
-### <h1>Olá! Eu sou o HebertVS padawan da programação!</h1>
+### <h1>Olá! Meu chamo Hebert Saravalle, padawan da programação!</h1>
 
 - 🔭 Aloco meus projetos, dos mais simples aos mais complexos em repositórios nessa plataforma para compor meu portfólio full-stack.
 - 🌱 Estudo C#, JAVA, PHP, SQL, HTML5, CSS3, JavaScript entre outras linguegens.
